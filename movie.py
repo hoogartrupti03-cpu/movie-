@@ -13,8 +13,8 @@ ticket_price = sys.argv[4]
 
 # Print movie details card
 print("\n====== MOVIE DETAILS CARD ======")
-print(f"Movie Name   : {movie_name}")
-print(f"Duration     : {duration}")
-print(f"Language     : {language}")
-print(f"Ticket Price : {ticket_price}")
+print(f"Movie Name   : {kantara}")
+print(f"Duration     : {3}")
+print(f"Language     : {kannada}")
+print(f"Ticket Price : {300}")
 print("================================\n")
